@@ -2,8 +2,17 @@
 # Format:  Nazwa | adres   (sam adres też zadziała)
 # Linie zaczynające się od # są pomijane.
 
-UP m.st. Warszawy | https://warszawa.praca.gov.pl/
-GUP Kraków | https://gupkrakow.praca.gov.pl/
-PUP Wrocław | https://wroclaw.praca.gov.pl/
-PUP Nowa Sól | https://nowasol.praca.gov.pl/
-PUP Głogów | https://glogow.praca.gov.pl/
+
+https://nowytarg.praca.gov.pl/
+https://wroclaw.praca.gov.pl/
+https://starachowice.praca.gov.pl/
+https://limanowa.praca.gov.pl/
+https://gupkrakow.praca.gov.pl/
+https://zywiec.praca.gov.pl/
+https://opolelubelskie.praca.gov.pl/
+https://krasnik.praca.gov.pl/strona-glowna
+https://swidnica.praca.gov.pl/
+https://piotrkowtrybunalski.praca.gov.pl/
+https://wejherowo.praca.gov.pl/
+https://gdansk.praca.gov.pl/
+https://srodawielkopolska.praca.gov.pl/
