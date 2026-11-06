@@ -16,3 +16,4 @@ https://piotrkowtrybunalski.praca.gov.pl/
 https://wejherowo.praca.gov.pl/
 https://gdansk.praca.gov.pl/
 https://srodawielkopolska.praca.gov.pl/
+https://ostrowwielkopolski.praca.gov.pl/
